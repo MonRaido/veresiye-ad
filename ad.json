@@ -1,0 +1,13 @@
+{
+  "active": false,
+  "type": "image",
+  
+
+  "link": "https://www.ornek.com",
+  "desktopImage": "https://www.ornek.com/banner-728x90.jpg",
+  "mobileImage": "https://www.ornek.com/banner-320x50.jpg",
+  
+
+  "desktopIframeUrl": "https://www.ornek.com/ads/desktop.html",
+  "mobileIframeUrl": "https://www.ornek.com/ads/mobile.html"
+}
