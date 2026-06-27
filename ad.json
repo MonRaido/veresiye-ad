@@ -1,6 +1,6 @@
 {
-  "active": false,
-  "type": "image",
+  "active": true,
+  "type": "iframe",
   
 
   "link": "https://www.ornek.com",
@@ -8,6 +8,6 @@
   "mobileImage": "https://www.ornek.com/banner-320x50.jpg",
   
 
-  "desktopIframeUrl": "https://www.ornek.com/ads/desktop.html",
-  "mobileIframeUrl": "https://www.ornek.com/ads/mobile.html"
+  "desktopIframeUrl": "https://celiklerbilisim.com/ads/desktop",
+  "mobileIframeUrl": "https://celiklerbilisim.com/ads/mobile"
 }
